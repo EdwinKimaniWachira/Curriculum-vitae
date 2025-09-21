@@ -1,0 +1,29 @@
+body{
+    background-image: url("ChatGPT Image Apr 18, 2025, 01_48_31 PM.png");
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0;
+
+
+} 
+h1{
+    color: blue;
+    justify-content: space-around;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    font-weight: bold;
+
+}
+h2{
+    color: greenyellow;
+    justify-content:flex-start;
+}
+h3{
+    color: greenyellow;
+    justify-content:flex-start;
+}
+h4{
+    color: greenyellow;
+    justify-content:flex-start;
+}
